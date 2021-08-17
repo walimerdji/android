@@ -695,6 +695,7 @@
 
   <include name="snippets/lineage.xml" />
   <include name="snippets/halium.xml" />
+  <include name="snippets/ubports.xml" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 </manifest>
